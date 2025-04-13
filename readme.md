@@ -1,0 +1,1 @@
+A simple weather API using the OpenWeatherMap API. It uses the `requests` library to fetch the data from the API and the `redis` library to cache the data.
